@@ -1,0 +1,7 @@
+{
+  "name": "MyConvoi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
